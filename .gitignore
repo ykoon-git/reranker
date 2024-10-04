@@ -16,11 +16,13 @@ eggs/
 .eggs/
 lib/
 lib64/
+bin/
 parts/
 sdist/
 var/
 wheels/
 share/python-wheels/
+share/man/
 *.egg-info/
 .installed.cfg
 *.egg
