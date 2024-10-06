@@ -2,3 +2,4 @@
 
 install with requirements.txt 
 
+![Alt text](images/ClimateNews.png)
